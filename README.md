@@ -7,14 +7,14 @@ Thanks to [Caiogondim](https://github.com/caiogondim/feline-alfred-theme) for th
 ## Omar 
 [Click to Install](http://is.gd/rACmko)
 
-![Omar](https://raw.github.com/nephets/alfred/master/omar.png)
+![Omar](https://raw.github.com/nephets/simple-alfred-themes/master/omar.png)
 
 ## D’Angelo
 [Click to Install](http://is.gd/99szrk)
 
-![D’Angelo](https://raw.github.com/nephets/alfred/master/dangelo.png)
+![D’Angelo](https://raw.github.com/nephets/simple-alfred-themes/master/dangelo.png)
 
 ## Bonus: OMG FLAT OMG
 [Click to Install](http://is.gd/l6FKY2)
 
-![Flat](https://raw.github.com/nephets/alfred/master/flat.png)
+![Flat](https://raw.github.com/nephets/simple-alfred-themes/master/flat.png)
